@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#000000</color>
+    <color name="colorforfavor">#13e459</color>
+    <color name="timestamp">#FF9800</color>
+    <color name="link">#FF9800</color>
+    <color name="background">#4B5557</color>
+    <color name="swipe_color_1">#000000</color>
+    <color name="swipe_color_2">#584f4f</color>
+    <color name="swipe_color_3">#a6fcfc</color>
+    <color name="swipe_color_4">#261c1c</color>
+    <color name="white">#ffffff</color>
+</resources>
